@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 # Olá, eu sou o Carlos! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCruz0001&show_icons=true&theme=radical)
+
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
