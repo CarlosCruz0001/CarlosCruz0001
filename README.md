@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, eu sou o Carlos! 
-👋
+# Olá, eu sou o Carlos! 👋
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCruz0001&show_icons=true&theme=radical)
