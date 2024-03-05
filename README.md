@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCruz0001&show_icons=true&theme=radical)
 
 
-<img loading="lazy" src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://icons8.com.br/icon/PXTY4q2Sq2lG/javascript)](https://icons8.com.br/icon/Nkym0Ujb8VGI/javascript)" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" height="40"/>
+<img loading="lazy" src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://icons8.com.br/icon/PXTY4q2Sq2lG/javascript)](https://icons8.com.br/icon/Nkym0Ujb8VGI/javascript)" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="10" height="40"/>
